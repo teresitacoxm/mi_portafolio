@@ -13,3 +13,7 @@ header {
 .indicadores {
   top: 150px;
 }
+
+body {
+  font-family:'Cabin', sans-serif;
+}
